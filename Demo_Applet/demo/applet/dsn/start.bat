@@ -1,0 +1,1 @@
+java -cp dsn.jar -Xmx1024000000 dsn.DSApplet

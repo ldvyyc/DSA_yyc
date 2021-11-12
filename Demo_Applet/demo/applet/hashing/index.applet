@@ -1,0 +1,5 @@
+<html>
+<body>
+<applet ARCHIVE="hashing_umich.jar" CODE="HashApplet.class" WIDTH="1600" HEIGHT="840"></applet>
+</body>
+</html>
